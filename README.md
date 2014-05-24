@@ -1,4 +1,4 @@
 basedatos2-robles
 =================
 
-Proyectos y tareas de base de tados2
+En esta proyecto trabajaremos todo lo referente a abase de datos 2, veremos muchas cosas bonitas, entre ellas a los procedimientos almacenados y disparadorees que veamos 

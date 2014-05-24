@@ -2,5 +2,5 @@
 todo lo relacionado a la primera parte del curso de
 oracle
 */
-create table hola integer, nombre varchar2(80));
+create table hola (id integer, nombre varchar2(80));
 
